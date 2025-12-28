@@ -9,7 +9,7 @@ I'm the solo developer behind the **Gamicraft Project**—a place where game ide
 
 ## 🎮 About Me
 
-- 🌱 Currently learning: JavaScript, web development, and whatever catches my curiosity.
+- 🌱 Currently learning: Android Development, and whatever catches my curiosity.
 - 🕹️ Ex-gaming addict turned “gamifier”—building tools and games to make life more fun & productive!
 - 💡 Idea machine: My brain is always buzzing with game concepts, hero kits, new modes, and wacky features.
 - 🧠 Fascinated by psychology & self-improvement—designing games that help people stick to good habits.
