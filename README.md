@@ -31,8 +31,7 @@ My goal: Turn everyday life into a game you actually want to play.
 
 ## 🛠️ Skills & Tools
 
-- JavaScript (learning & experimenting)
-- HTML & CSS
+- Android Development (Vibe Coding)
 - Video editing & simple motion graphics (for Gamicraft YT)
 - Generalist explorer—always up for a new challenge!
 
